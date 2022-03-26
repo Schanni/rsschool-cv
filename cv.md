@@ -16,3 +16,25 @@ I am working as an accountant. Sometimes I enjoy my job, sometimes not. I love t
 * HTML (Basic)
 * CSS (Basic)
 * Photoshop (Basic)
+
+## Code example
+
+```
+function multiply(a, b){
+  return a * b
+}
+
+multiply(5, 7)
+```
+
+## Courses
+
+* UI/UX Design in [IT-Acadeny (Minsk)](https://www.it-academy.by)
+* Course «JavaScript/Front-end. Stage 1» in [RS School](https://rs.school/) (in progress)
+
+## Languages
+
+- English: B1&ndash;B2;
+- German: B1;
+- Czech: A1;
+- Russian: native.
